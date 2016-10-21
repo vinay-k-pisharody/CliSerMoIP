@@ -19,4 +19,4 @@ Use 'CTRL+C' to terminate the program at any given point. It will terminate the 
 
 The Server Thread is capable of finding its IP address in the given network with the help of the function getip(). 
 The Client Thread however has to include the address of the corresponding server it is trying to connect to. Hence, the string 
-in the variable host has to be updated accordingly and hard coded onto each machine individually.
+in the variable host on line 68 has to be updated accordingly and hard coded onto each machine individually.
